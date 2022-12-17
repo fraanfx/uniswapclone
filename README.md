@@ -24,7 +24,17 @@ Swap the diferents token in the live site
 
 6. Paste you Goerli ETH Testnet direction on the field and collect the Goerli WETH.
 
-7. Log in with your Metamask wallet in [Live version](https://fraanfx-uniswapclone.netlify.app/).
+7. Add these tokens to your assets list:
+   
+   [FraanFX](https://goerli.etherscan.io/token/0x920383178e31b9531510b8edc20d9bb66c6b2425)
+
+   [FraanFX Cash](https://goerli.etherscan.io/token/0x319909250fcf8d42f991b624aad017db52ddaaab)
+ 
+   [BoxerFX](https://goerli.etherscan.io/token/0xa30ef255dc7e7cd61b69263855a1b6646b70e8dd)
+
+8. Log in with your Metamask wallet in [Live version](https://fraanfx-uniswapclone.netlify.app/).
+
+9. Swap the tokens!
 
 ---
 
